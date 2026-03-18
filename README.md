@@ -1,16 +1,23 @@
-# cafe_app
+# ☕ CafeApp "Snezhinka" — Система управления меню кофейни
 
-A new Flutter project-menu for cafe "Snezhinka".
+**Кроссплатформенное решение для автоматизации меню и заказов, разработанное на Flutter с использованием облачных технологий Firebase.**
 
-## Getting Started
+## 🚀 Основные функции
+* **Интерактивное меню:** Просмотр позиций с актуальными ценами в реальном времени.
+* **Админ-панель:** Встроенный интерфейс для управления ассортиментом (CRUD-операции).
+* **Синхронизация с облаком:** Мгновенное обновление данных у всех пользователей через Firestore.
+* **Безопасность:** Защищенный вход в режим администратора по коду доступа.
 
-This project is a starting point for a Flutter application.
+## 🛠 Технологический стек
+* **Frontend:** Flutter (Dart) — Material 3 Design.
+* **Backend:** Firebase Cloud Firestore (NoSQL).
+* **Архитектура:** Реактивное управление состоянием через Streams.
 
-A few resources to get you started if this is your first Flutter project:
+## 📽 Демонстрация
+## 📦 Как запустить
+1. Скачайте актуальный билд в разделе [Releases]().
+2. Установите APK на Android-устройство.
+3. Для доступа к админ-панели используйте установленный код доступа.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+*Проект подготовлен для участия в IT-чемпионате (2026).*
