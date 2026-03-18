@@ -15,7 +15,7 @@
 
 ## 📽 Демонстрация
 ## 📦 Как запустить
-1. Скачайте актуальный билд в разделе [Releases]().
+1. Скачайте актуальный билд в разделе [Releases](https://github.com/VvincentN/CafeApp_ITPLANET/releases/tag/v1.0).
 2. Установите APK на Android-устройство.
 3. Для доступа к админ-панели используйте пароль (TestPasswordTestPassword111).
 
