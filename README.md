@@ -9,9 +9,9 @@
 * **Безопасность:** Защищенный вход в режим администратора по коду доступа.
 
 ## 🛠 Технологический стек
-* **Frontend:** Flutter (Dart).
-* **Backend:** Firebase Cloud Firestore (NoSQL).
-* **Архитектура:** Реактивное управление состоянием через Streams.
+**Frontend:** Flutter (Dart).
+**Backend:** Firebase Cloud Firestore (NoSQL).
+**Архитектура:** Реактивное управление состоянием через Streams.
 
 ## 📽 Демонстрация
 
