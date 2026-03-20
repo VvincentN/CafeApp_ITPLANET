@@ -14,6 +14,7 @@
 * **Архитектура:** Реактивное управление состоянием через Streams.
 
 ## 📽 Демонстрация
+https://disk.yandex.ru/i/-QsL8VQccmigVw
 
 ## 📦 Как запустить
 1. Скачайте актуальный билд в разделе [Releases](https://github.com/VvincentN/CafeApp_ITPLANET/releases/tag/v1.0).
